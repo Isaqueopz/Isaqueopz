@@ -52,10 +52,11 @@ sou uma pessoa extremamente esforçada, quero aprender o máximo que conseguir p
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+<div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-   
+    <img align="center" alt="PYTHON" height="40" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+    	
+    
 
-<p align="left">
-  <img align="center" src="https://github.com/Isaqueopz/Isaqueopz/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+
