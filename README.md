@@ -29,7 +29,7 @@
 sou uma pessoa extremamente esforçada, quero aprender o máximo que conseguir para me tornar um dos melhores progamadores.
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrzxvsa6l5yakzpocljqew5lda&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jisc3ia4l23gkpskgttlidgsdu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=0d8609&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jisc3ia4l23gkpskgttlidgsdu&redirect=true)
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaquerx_/)
