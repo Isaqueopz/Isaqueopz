@@ -50,7 +50,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaqueopz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=isaqueopz&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaqueopz&radius=16&theme=github-dark&area=true&order=5&hide_border=false&custom_title=Estat%C3%ADsticas%20de%20Atividade" height="260" alt="activity-graph graph"  />
 </div>
