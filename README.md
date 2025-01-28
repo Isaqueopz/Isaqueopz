@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Olá me chamo Isaque MIsael<br> atualmente tenho 19 anos...<br>estou cursando Ciências da Computação na UEPB ( 1 º Período)<br>espero  conseguir compartilhar o meu aprendizado por aqui!!</h4>
+<h4 align="left">Olá me chamo Isaque MIsael<br> atualmente tenho 19 anos...<br>estou cursando Ciências da Computação na UEPB ( 2 º Período)<br>espero  conseguir compartilhar o meu aprendizado por aqui!!</h4>
 
 ###
 
