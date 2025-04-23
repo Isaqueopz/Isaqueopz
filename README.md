@@ -12,7 +12,10 @@
 
 ###
 
-<h4 align="left">Olá me chamo Isaque MIsael<br> atualmente tenho 19 anos...<br>estou cursando Ciências da Computação na UEPB ( 2 º Período)<br>espero  conseguir compartilhar o meu aprendizado por aqui!!</h4>
+<h4 align="left">👨‍💻 Computer Science student at State University of Paraíba (UEPB) | 19 years old
+Currently in my 2nd semester, passionate about technology and software development.
+I started coding with Python and I'm now focused on building mobile and web applications using JavaScript, TypeScript, and React Native.
+Always eager to learn, grow, and take on new challenges in the tech world!<br>I hope I can share my learning here!!</h4>
 
 ###
 
