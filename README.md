@@ -8,65 +8,80 @@
 
 ###
 
-<h1 align="left">About Me:</h1>
+<h1 align="left">Sobre mim:</h1>
 
 ###
 
-<h4 align="left">👨‍💻 Estudante de Bacharel em Ciências da Computação na Universidade Estadual da Paraíba (UEPB), com previsão de conclusão em 2028.
-Desenvolvedor web e mobile com 2 anos de experiência, focado em criar aplicações escaláveis, de alta performance e com design atrativo. Atualmente, atuo com ReactJs, React Native e Flutter, mas sempre busco aprimorar meus conhecimentos e aplicar novas tecnologias nos projetos.<br>Vamos juntos construir algo incrível!</h4>
+[cite_start]<h4 align="left">👨‍💻 Desenvolvedor web e mobile com 2 anos de experiência, focado em criar aplicações escaláveis, de alta performance e com design atrativo[cite: 6]. 
+[cite_start]Atualmente, atuo como **Mobile and Web Developer** na **Unioon Tech Group**, usando **ReactJs** e **Flutter**[cite: 11, 12]. [cite_start]Também participo de um projeto voluntário na **Fast Devs** para aprimorar minhas habilidades Full-Stack, com **React Native** (Expo), **TypeScript** e **NestJs**[cite: 25, 26].
+[cite_start]Busco sempre aprimorar meus conhecimentos e aplicar novas stacks para agregar valor aos projetos[cite: 7]!
+<br>
+<br>
+</h4>
 
-###
+---
 
-<h3 align="left">Linguagens e Tecnologias:</h3>
+### 📚 Educação
 
-###
+[cite_start]<h4 align="left">Bacharel em Ciências da Computação na **Universidade Estadual da Paraíba** (UEPB), com previsão de conclusão em **2028**[cite: 37, 38, 39].</h4>
+
+---
+
+### 🤖 Habilidades e Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img  alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img  alt="React Native" title="React Native" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img  alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img  alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img  alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" />
+  <img  alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img  alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img  alt="Clean Architecture" title="Clean Architecture" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresql/azuresql-original.svg" />
+  <img  alt="Design Patterns" title="Design Patterns" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img  alt="CSS-in-JS" title="CSS-in-JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img  alt="DevOps" title="DevOps" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 </div>
 
-###
+<br/>
+<br/>
 
-<h3 align="left">Redes Sociais:</h3>
+---
 
-###
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Isaqueopz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaqueopz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+
+---
+
+### 🔗 Me encontre
 
 <div align="left">
-  <a href="isaquedinizpb@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/isaque-misael-977793318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Isaqueopz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
+  </a>
+  <a href="mailto:isaquedinizpb@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Isaqueopz&locale=pt_BR&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaqueopz&radius=16&theme=github-dark&area=true&order=5&hide_border=false&custom_title=Estat%C3%ADsticas%20de%20Atividade" height="260" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="center">Espero que você volte aqui mais vezes! :D</h2>
 
 ###
 
