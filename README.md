@@ -20,31 +20,12 @@
 
 ---
 
-## `whoami`
-
-```ts
-const isaque = {
-  role:       "Mobile Developer (React Native)",
-  location:   "Campina Grande, PB — Brasil",
-  education:  "BSc. Ciências da Computação @ UEPB (2028) · GPA 9.39",
-  english:    "B1 Intermediate",
-
-  currently:  ["Unioon Tech Group", "Fast Devs"],
-  building:   "Apps mobile em produção com React Native + TypeScript",
-  exploring:  ["Next.js", "Full-Stack", "Clean Architecture"],
-
-  available:  true,
-};
-```
-
----
-
 ## Experiência
 
-**Unioon Tech Group** · Desenvolvedor Mobile · *2025 – presente*
+**Unioon Tech Group** · Desenvolvedor Mobile · *jun 2025 – dez 2025 *
 > Manutenção e evolução de app React Native em produção. Reorganizei a arquitetura do front-end e otimizei o pipeline de CI/CD — **reduzindo falhas em produção em +80%**.
 
-**Fast Devs** · Desenvolvedor Mobile · *nov 2024 – presente*
+**Fast Devs** · Desenvolvedor Mobile · *fev 2025 - dez 2025 *
 > App mobile com React Native (Expo) + TypeScript. Integração com backend NestJS, manipulação de dados MySQL e desenvolvimento de funcionalidades como criação de partidas e exibição de estatísticas.
 
 ---
