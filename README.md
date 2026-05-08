@@ -1,65 +1,117 @@
-<h1 align="center">Olá 👋, eu sou Isaque Pinheiro</h1>
-<h3 align="center">👨🏻‍💻 Desenvolvedor Web & Mobile | Full-Stack</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.youtube.com/@zckcode" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/isaquerx_/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/isaque-misael-977793318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:isaquedinizpb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+```
+██╗███████╗ █████╗  ██████╗ ██╗   ██╗███████╗
+██║██╔════╝██╔══██╗██╔═══██╗██║   ██║██╔════╝
+██║███████╗███████║██║   ██║██║   ██║█████╗  
+██║╚════██║██╔══██║██║▄▄ ██║██║   ██║██╔══╝  
+██║███████║██║  ██║╚██████╔╝╚██████╔╝███████╗
+╚═╝╚══════╝╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝
+```
 
+### Mobile Developer · React Native · TypeScript
 
-## 👨🏻‍💻 Sobre Mim
-Sou estudante de Ciência da Computação na **UEPB** (formatura prevista: 2028) e atuo há 2 anos como **Desenvolvedor Full-Stack** na Unioon Tech Group e FastDevs.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaquepinheiro/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@zckcode)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaquedinizpb@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/isaquerx_/)
 
-Minha paixão é construir **soluções eficientes, escaláveis e com excelente usabilidade**, sempre explorando novas tecnologias e arquiteturas modernas.
+</div>
 
-💡 Atualmente me aprofundo em: **Next.js, React Native, bancos de dados e desenvolvimento full-stack completo**.
-📚 Sou entusiasta em compartilhar conhecimento e aberto a novas ideias e desafios.
+---
 
+## `whoami`
 
+```ts
+const isaque = {
+  role:       "Mobile Developer (React Native)",
+  location:   "Campina Grande, PB — Brasil",
+  education:  "BSc. Ciências da Computação @ UEPB (2028) · GPA 9.39",
+  english:    "B1 Intermediate",
 
-## 🛠 Tecnologias & Ferramentas
+  currently:  ["Unioon Tech Group", "Fast Devs"],
+  building:   "Apps mobile em produção com React Native + TypeScript",
+  exploring:  ["Next.js", "Full-Stack", "Clean Architecture"],
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
+  available:  true,
+};
+```
+
+---
+
+## Experiência
+
+**Unioon Tech Group** · Desenvolvedor Mobile · *2025 – presente*
+> Manutenção e evolução de app React Native em produção. Reorganizei a arquitetura do front-end e otimizei o pipeline de CI/CD — **reduzindo falhas em produção em +80%**.
+
+**Fast Devs** · Desenvolvedor Mobile · *nov 2024 – presente*
+> App mobile com React Native (Expo) + TypeScript. Integração com backend NestJS, manipulação de dados MySQL e desenvolvimento de funcionalidades como criação de partidas e exibição de estatísticas.
+
+---
+
+## Projetos
+
+| Projeto | Stack | Destaque |
+|---|---|---|
+| **Site Institucional M4 PRO SOLUTION** | React · Next.js · Deploy | +73,5% na captação de clientes |
+| **Camisa 10 App** | React Native · NestJS · MySQL | App em produção (Play Store & App Store) |
+| **Sistema de Agendamento** | Java · POO · Estruturas de Dados | Projeto acadêmico colaborativo |
+| **Bot Devocional** | Next.js · Prisma · Spotify API · Cron | Automação full-stack para uso pessoal |
+
+---
+
+## Stack
+
+**Mobile & Front-end**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Back-end & Dados**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=isaqueopz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaqueopz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=isaqueopz&theme=tokyonight&hide_border=true)
 
-<br/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaqueopz&show_icons=true&locale=en&theme=gotham" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaqueopz&show_icons=true&locale=en&layout=compact&langs_count=10&theme=gotham" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaqueopz&theme=gotham" alt="GitHub Streak" />
-</p>
+---
 
-<br/>
+## Série no YouTube · Do Zero ao Deploy
+
+> Estou construindo uma aplicação full-stack completa **sem usar IA no código** — documentando cada erro, decisão e aprendizado.
+
+[![YouTube](https://img.shields.io/badge/Acompanhe_a_série-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zckcode)
+
+---
+
+<div align="center">
+
+*Campina Grande, PB · Aberto a oportunidades remotas e híbridas*
+
+</div>
